@@ -1,6 +1,6 @@
 # Curriculo
 
-##Leonardo Prado
+## Leonardo Prado
 
 **Idade:** 25
 
@@ -12,7 +12,7 @@
 
 
 
-###Experiencia Profisiona
+### Experiencia ProfisionaL
 
 ***Engworld:*** Montador de Paineis de automação eletrica.
 
@@ -20,7 +20,7 @@
 
 ***Tekno Sollaris:*** Especialista em Protocolação e projeto de sistemas Fotovoltaico(**CPFL, ELEKTRO, ELETROPAULO**). 
 
-###Experiencia 
+### Experiencia 
 
 - Dominio nos softwares
   1. sketchup

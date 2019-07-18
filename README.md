@@ -6,7 +6,7 @@
 **Endereço:** Rua augusto sacratin, 261, vila omar, Americana - SP
 **Estado Civil:** Casado
 
- [Facebook].(https://www.facebook.com/LeonardoAugustoDoPrado)  
+ [Facebook](https://www.facebook.com/LeonardoAugustoDoPrado)  
 
 
 

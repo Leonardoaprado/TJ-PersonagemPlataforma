@@ -1,14 +1,36 @@
-# Personagem Plataforma
+# Curriculo
 
-por: ***Leonardo Prado***
-Projeto desenvolvido utilizando o *game Engine* Unity
+##Leonardo Prado
 
-### Objetivo 
-Criar um sistema em que um personagem fica em cima de uma plataforma. esse projeto foi construido em 2D
+**Idade:** 25
+**Endereço:** Rua augusto sacratin, 261, vila omar, Americana - SP
+**Estado Civil:** Casado
 
-### Elementos utilizados
-1. Rigidybody
-2. BoxCollider
+[Facebook].(https://www.facebook.com/LeonardoAugustoDoPrado)
 
-### Recursos
-Sprites: Game Art 2D
+
+
+###Experiencia Profisiona
+
+***Engworld:*** Montador de Paineis de automação eletrica.
+***Jcr:*** Montador de Paineis de automação eletrica. 
+***Tekno Sollaris:*** Especialista em Protocolação e projeto de sistemas Fotovoltaico(**CPFL, ELEKTRO, ELETROPAULO**). 
+
+###Experiencia 
+
+- Dominio nos softwares
+  1. sketchup
+  2. autocad
+- cursos profissionalizantes
+  1. eletrica basica
+  2. comandos eletrico
+  3. tecnico em Jogos digitais 
+    ```Debug.Log("Conheço o basico em C#");```
+  4. ingles basico
+  5. pacote office
+
+
+
+
+
+>Jesus Cristo é a resposta

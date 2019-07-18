@@ -3,12 +3,12 @@
 por: ***Leonardo Prado***
 Projeto desenvolvido utilizando o *game Engine* Unity
 
-###Objetivo 
+### Objetivo 
 Criar um sistema em que um personagem fica em cima de uma plataforma. esse projeto foi construido em 2D
 
-###Elementos utilizados
-1.Rigidybody
-2.BoxCollider
+### Elementos utilizados
+1. Rigidybody
+2. BoxCollider
 
-###Recursos
+### Recursos
 Sprites: Game Art 2D
